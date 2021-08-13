@@ -1,0 +1,57 @@
+{
+
+    "name": “BNBOOM”,
+
+    "type": "BEP20",
+
+    "symbol": “BNBOOM,
+
+    "decimals": 18,
+
+    "website": "https://bnboom.club”,
+
+    "description": "BNBOOM proposes an innovative feature in its contract, BNB dividends to be paid with low buying tax! With the auto-claim feature, simply hold $BNBOOM and you’ll receive BNB automatically in your wallet.",
+
+    "explorer": "https://bscscan.com/token/0x97e19171e13325c6aa5ef436216a0458f65848f1",
+
+    "status": "active",
+
+    "id": "0x97e19171e13325c6aa5ef436216a0458f65848f1",
+
+    "links": [
+
+        {
+
+            "name": "twitter",
+
+            "url": "https://twitter.com/bnboomclub"
+
+        },
+
+        {
+
+            "name": "telegram",
+
+            "url": "https://t.me/bnboom”
+
+        },
+
+        {
+
+            "name": "reddit",
+
+            "url": "https://reddit.com/user/bnboom/"
+
+        },
+
+        {
+
+            "name": "whitepaper",
+
+            "url": "https://bnboom.club/wp-content/uploads/2021/08/boompaper.pdf"
+
+        },
+
+    ]
+
+}
